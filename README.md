@@ -34,7 +34,7 @@ Numreringen följer respektive kapitel, exempelvis `kapitel3.ipynb` och `koduppg
 Dataset och övriga filer som behövs för respektive uppgift ligger i den aktuella kapitelmappen.
 
 ```text
-kunskapskontroll/
+kunskapskontroll_del1/
 │
 ├── Kapitel 1/
 │   ├── kapitel1.ipynb
