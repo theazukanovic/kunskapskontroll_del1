@@ -34,7 +34,7 @@ Numreringen följer respektive kapitel, exempelvis `kapitel3.ipynb` och `koduppg
 
 Dataset och övriga filer som behövs för respektive uppgift ligger i den aktuella kapitelmappen.
 
-```text
+```
 kunskapskontroll_del1/
 │
 ├── Kapitel 1/
@@ -43,28 +43,18 @@ kunskapskontroll_del1/
 │
 ├── Kapitel 2/
 │   ├── dataset/
-│   │   ├── data_01.csv
-│   │   ├── housing.csv
-│   │   └── salary_dataset.csv
 │   ├── kapitel2.ipynb
 │   ├── koduppgifter2.ipynb
 │   └── linear_model.joblib
 │
 ├── Kapitel 3/
 │   ├── dataset/
-│   │   ├── diamonds.csv
-│   │   └── hr_employee_data.xlsx
 │   ├── kapitel3.ipynb
 │   └── koduppgifter3.ipynb
 │
 ├── Kapitel 4/
 │   ├── bilder/
-│   │   ├── number0.png
-│   │   ├── number1.png
-│   │   ├── ...
-│   │   └── number9.png
 │   ├── dataset/
-│   │   └── hr_employee_data.xlsx
 │   ├── app.py
 │   ├── extra_trees_mnist.joblib
 │   ├── mnist_scaler.joblib
@@ -73,16 +63,12 @@ kunskapskontroll_del1/
 │
 ├── Kapitel 5/
 │   ├── dataset/
-│   │   └── car_price_dataset.csv
 │   ├── kapitel5.ipynb
 │   └── koduppgifter5.ipynb
 │
 ├── Kapitel 6/
 │   ├── bilder/
-│   │   └── california.png
 │   ├── dataset/
-│   │   ├── 1980sClassics.csv
-│   │   └── housing.csv
 │   ├── kapitel6.ipynb
 │   └── koduppgifter6.ipynb
 │
@@ -120,11 +106,15 @@ Bilderna som används för testning finns i:
 Kapitel 4/bilder/
 ```
 
-De tränade modellfilerna som används av applikationen finns också i mappen `Kapitel 4`.
-
 ## Referenser
 
-- **Kursens övningsuppgifter:** [Antonio Prgomets GitHub-repository](https://github.com/AntonioPrgomet/ai_tillaempad_ml?utm_source=chatgpt.com)
-- **Kursbok:** *Lär dig AI från grunden – Tillämpad maskininlärning med Python* av Antonio Prgomet, Terese Johnson, Amanda Solberg och Linus Rundberg Streuli.
-- **scikit-learn Documentation:** [scikit-learn Documentation](https://scikit-learn.org/stable/?utm_source=chatgpt.com)
-- **scikit-learn Getting Started:** [Getting Started with scikit-learn](https://scikit-learn.org/stable/getting_started.html?utm_source=chatgpt.com)
+- **Kursens övningsuppgifter:** Antonio Prgomets GitHub-repository
+- **Kursbok:** *Lär dig AI från grunden – Tillämpad maskininlärning med Python* av Antonio Prgomet, Terese Johnson, Amanda Solberg och Linus Rundberg Streuli
+- **scikit-learn Documentation**
+- **scikit-learn Getting Started**
+
+### Länkar
+
+- [Antonio Prgomets GitHub-repository](https://github.com/AntonioPrgomet/ai_tillaempad_ml)
+- [scikit-learn Documentation](https://scikit-learn.org/stable/)
+- [scikit-learn Getting Started](https://scikit-learn.org/stable/getting_started.html)
